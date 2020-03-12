@@ -1,0 +1,15 @@
+CustomerId1, Name: ALanPhoneNumber: (829)
+ Address: Street: 237-2345
+ City: Florida
+ State: fwe
+ Zip Code: 12345
+
+Selected options 
+Cable, Basic, 24.99
+Cable, Premium, 45.99
+Cable, Platinum, 79.99
+Internet, Essential, 30.0, 39.95
+Internet, Preferred, 100.0, 59.95
+Internet, Ultimate, 300.0, 79.95
+Phone, Basic, 19.99
+Phone, Supreme, 39.99
